@@ -14,7 +14,7 @@ illinois = new State("IL", 5000, 12);
 minnesota = new State("MN", 300, 3);
 nevada = new State("NV", 25000, 1);
 
-console.log(minnesota.averageRevenue());
+//console.log(minnesota.averageRevenue());
 // push object instances to locations array
 locations.push(illinois);
 locations.push(minnesota);
